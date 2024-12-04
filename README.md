@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/0485-max-consecutive-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KishanKDev/GrindingDSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KishanKDev/GrindingDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KishanKDev/GrindingDSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
