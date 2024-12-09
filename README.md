@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KishanKDev/GrindingDSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/KishanKDev/GrindingDSA/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KishanKDev/GrindingDSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0229-majority-element-ii) |
+| [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
