@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/KishanKDev/GrindingDSA/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
