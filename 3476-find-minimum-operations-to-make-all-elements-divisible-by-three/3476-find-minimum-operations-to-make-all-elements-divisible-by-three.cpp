@@ -8,9 +8,7 @@ public:
                 continue;
             }
             else{
-                if(nums[i]%3 !=0){
-                    count++;
-                }
+                count++;
             }
         }
         return count;
