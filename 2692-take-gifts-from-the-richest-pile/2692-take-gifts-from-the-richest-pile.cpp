@@ -11,8 +11,8 @@ public:
 
     // Calculate the sum of all remaining gifts
     long long totalRemaining = 0;
-    for (int gift : gifts) {
-        totalRemaining += gift;
+    for (int i=0;i<gifts.size();i++) {
+        totalRemaining += gifts[i];
     }
 
     return totalRemaining;
