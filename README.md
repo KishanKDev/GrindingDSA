@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/KishanKDev/GrindingDSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/3427-special-array-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KishanKDev/GrindingDSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,6 +194,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
