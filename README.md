@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/KishanKDev/GrindingDSA/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KishanKDev/GrindingDSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -180,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
