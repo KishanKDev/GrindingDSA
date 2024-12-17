@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KishanKDev/GrindingDSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KishanKDev/GrindingDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KishanKDev/GrindingDSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -186,12 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
