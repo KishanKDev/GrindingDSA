@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/3427-special-array-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KishanKDev/GrindingDSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KishanKDev/GrindingDSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KishanKDev/GrindingDSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
