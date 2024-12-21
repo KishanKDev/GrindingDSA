@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KishanKDev/GrindingDSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KishanKDev/GrindingDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KishanKDev/GrindingDSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KishanKDev/GrindingDSA/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/KishanKDev/GrindingDSA/tree/master/0792-binary-search) |
