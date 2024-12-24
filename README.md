@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KishanKDev/GrindingDSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KishanKDev/GrindingDSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/KishanKDev/GrindingDSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
