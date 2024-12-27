@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/KishanKDev/GrindingDSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/KishanKDev/GrindingDSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1063-best-sightseeing-pair](https://github.com/KishanKDev/GrindingDSA/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KishanKDev/GrindingDSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KishanKDev/GrindingDSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KishanKDev/GrindingDSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/KishanKDev/GrindingDSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanKDev/GrindingDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1063-best-sightseeing-pair](https://github.com/KishanKDev/GrindingDSA/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
 ## Simulation
 |  |
