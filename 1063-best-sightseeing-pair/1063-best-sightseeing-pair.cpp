@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxScoreSightseeingPair(vector<int>& values) {
-        int maxScore = 0; 
+    int maxScore = 0; 
     int maxPrev = values[0]; // Initializing maxPrev with the first value.
 
     for (int j = 1; j < values.size(); j++) {
