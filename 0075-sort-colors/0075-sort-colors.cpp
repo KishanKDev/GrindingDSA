@@ -12,6 +12,7 @@ public:
         } else if (nums[index] == 2) {
             swap(nums[index], nums[right]);
             right--;
+            // yahi to glti hogi apne se kyunki yaha index++ nhii krna h 
         } else { // nums[index] == 1
             index++;
         }
