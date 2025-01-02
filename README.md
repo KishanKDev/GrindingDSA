@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KishanKDev/GrindingDSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/KishanKDev/GrindingDSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KishanKDev/GrindingDSA/tree/master/0231-power-of-two) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KishanKDev/GrindingDSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KishanKDev/GrindingDSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KishanKDev/GrindingDSA/tree/master/0075-sort-colors) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
