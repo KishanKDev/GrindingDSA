@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/KishanKDev/GrindingDSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
 | [2868-continuous-subarrays](https://github.com/KishanKDev/GrindingDSA/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KishanKDev/GrindingDSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KishanKDev/GrindingDSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -280,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
