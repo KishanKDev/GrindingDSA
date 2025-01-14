@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/KishanKDev/GrindingDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/KishanKDev/GrindingDSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0287-find-the-duplicate-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/KishanKDev/GrindingDSA/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KishanKDev/GrindingDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KishanKDev/GrindingDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KishanKDev/GrindingDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
