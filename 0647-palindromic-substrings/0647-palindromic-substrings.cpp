@@ -16,13 +16,15 @@ public:
         for(int i=0;i<s.length();i++){
             int j=i;
             int OddkaAns=Expand(s,i,j);
-            
+
             TotalCount=TotalCount+OddkaAns;
 
             j= i+1;
             int EvenkaAns= Expand(s,i,j);
 
             TotalCount=TotalCount+EvenkaAns;
+
+            // TotalCount=TotalCount+OddkaAns+EvenKaAns;
         }
         return TotalCount;
         
