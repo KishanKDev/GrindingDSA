@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KishanKDev/GrindingDSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KishanKDev/GrindingDSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2406-decode-the-message](https://github.com/KishanKDev/GrindingDSA/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KishanKDev/GrindingDSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KishanKDev/GrindingDSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String Matching
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KishanKDev/GrindingDSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3427-special-array-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
