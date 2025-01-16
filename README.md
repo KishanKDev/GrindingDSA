@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/KishanKDev/GrindingDSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KishanKDev/GrindingDSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KishanKDev/GrindingDSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KishanKDev/GrindingDSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0283-move-zeroes) |
@@ -314,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KishanKDev/GrindingDSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KishanKDev/GrindingDSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
