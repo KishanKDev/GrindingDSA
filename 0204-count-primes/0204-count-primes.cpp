@@ -44,10 +44,13 @@ public:
         if(prime[i]){
             ans++;
 
-            int j=2*i;
-            while(j<n){
+            // int j=2*i;
+            // while(j<n){
+            //     prime[j]=false;
+            //     j +=i;
+            // }
+            for(int j=2*i;j<n;j=j+i){
                 prime[j]=false;
-                j +=i;
             }
         }
     }
