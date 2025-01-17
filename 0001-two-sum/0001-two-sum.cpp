@@ -11,28 +11,45 @@ public:
         // }
         // }
         // return {-1,-1};
-        vector<pair<int, int>>indexnums;
 
+        //Without hashing Optimal
+        // vector<pair<int, int>>indexnums;
+
+        // for(int i=0;i<n;i++){
+        //     indexnums.push_back({nums[i],i});
+        // }
+
+        // sort(indexnums.begin(),indexnums.end());
+        // int low= 0;
+        // int high= n-1;
+
+        // while(low<high){
+        //     int currsum=indexnums[low].first+indexnums[high].first;
+        //     if(currsum==target){
+        //         return {indexnums[low].second,indexnums[high].second};
+        //     }
+        //     else if(currsum>target){
+        //         high--;
+        //     }
+        //     else{
+        //         low++;
+        //     }
+        // }
+        // return{-1,-1};
+       
+
+        map<int,int>mpp;
         for(int i=0;i<n;i++){
-            indexnums.push_back({nums[i],i});
-        }
+            int a= nums[i];
+            int moreneeded=(target-a);
 
-        sort(indexnums.begin(),indexnums.end());
-        int low= 0;
-        int high= n-1;
-
-        while(low<high){
-            int currsum=indexnums[low].first+indexnums[high].first;
-            if(currsum==target){
-                return {indexnums[low].second,indexnums[high].second};
+            if(mpp.find(moreneeded)!=mpp.end()){
+                return {mpp[moreneeded],i};
             }
-            else if(currsum>target){
-                high--;
-            }
-            else{
-                low++;
-            }
+            mpp[a]=i;
         }
-        return{-1,-1};
+        return {-1,-1};        
+
+
     }
 };
