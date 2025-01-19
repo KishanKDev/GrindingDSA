@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KishanKDev/GrindingDSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KishanKDev/GrindingDSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3379-score-of-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
