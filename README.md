@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/KishanKDev/GrindingDSA/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KishanKDev/GrindingDSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishanKDev/GrindingDSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/KishanKDev/GrindingDSA/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KishanKDev/GrindingDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KishanKDev/GrindingDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishanKDev/GrindingDSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KishanKDev/GrindingDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishanKDev/GrindingDSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KishanKDev/GrindingDSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3427-special-array-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/3427-special-array-ii) |
 ## Sliding Window
