@@ -6,10 +6,13 @@ public:
         for(int i=0;i<n;i++){
             if(address[i]=='.'){
                 
-                defanged.append("[.]");
+                // defanged.append("[.]");
+
+                defanged +="[.]";
             }
             else{
-                defanged.push_back(address[i]);
+                defanged +=address[i];
+                // defanged.push_back(address[i]);
             }
         }
         return defanged;
