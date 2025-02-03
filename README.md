@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KishanKDev/GrindingDSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KishanKDev/GrindingDSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/KishanKDev/GrindingDSA/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KishanKDev/GrindingDSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KishanKDev/GrindingDSA/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/KishanKDev/GrindingDSA/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KishanKDev/GrindingDSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanKDev/GrindingDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/KishanKDev/GrindingDSA/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/KishanKDev/GrindingDSA/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/KishanKDev/GrindingDSA/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/KishanKDev/GrindingDSA/tree/master/2164-two-best-non-overlapping-events) |
 ## Simulation
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KishanKDev/GrindingDSA/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KishanKDev/GrindingDSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
