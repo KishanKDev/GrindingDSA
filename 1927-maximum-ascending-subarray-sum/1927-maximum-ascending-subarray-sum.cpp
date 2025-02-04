@@ -3,22 +3,19 @@ public:
     int maxAscendingSum(vector<int>& nums) {
         int n=nums.size();
         
-        int result =0;
+       int maxsum=0;
+       int sum=nums[0];
 
-        for(int i=0;i<n;i++){
-            int sum=nums[i];
-            for(int j=i+1;j<n;j++){
-                if(nums[j]>nums[j-1]){
-                    sum += nums[j];
-                }
-                else{
-                    break;
-                }
-            
-                
-            }
-            result= max(result,sum);
+       for(int i=1;i<n;i++){
+        if(nums[i]>nums[i-1]){
+            sum +=nums[i];
         }
-        return result;
+        else{
+            maxsum=max(maxsum,sum);
+            sum=nums[i];
+        }
+       }
+
+       return max(maxsum,sum);
     }
 };
