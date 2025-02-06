@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/KishanKDev/GrindingDSA/tree/master/0926-find-and-replace-pattern) |
 | [1063-best-sightseeing-pair](https://github.com/KishanKDev/GrindingDSA/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/KishanKDev/GrindingDSA/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KishanKDev/GrindingDSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KishanKDev/GrindingDSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/KishanKDev/GrindingDSA/tree/master/0782-jewels-and-stones) |
 | [0926-find-and-replace-pattern](https://github.com/KishanKDev/GrindingDSA/tree/master/0926-find-and-replace-pattern) |
+| [1364-tuple-with-same-product](https://github.com/KishanKDev/GrindingDSA/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KishanKDev/GrindingDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0229-majority-element-ii) |
+| [1364-tuple-with-same-product](https://github.com/KishanKDev/GrindingDSA/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/KishanKDev/GrindingDSA/tree/master/1635-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KishanKDev/GrindingDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
