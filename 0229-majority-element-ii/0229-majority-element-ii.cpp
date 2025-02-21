@@ -15,7 +15,8 @@ public:
         if(count>n/3){
             if (std::find(ans.begin(), ans.end(), nums[i]) == ans.end()) {
                     ans.push_back(nums[i]);
-        }
+            }
+
         }    
 
       }
