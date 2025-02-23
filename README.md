@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KishanKDev/GrindingDSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/KishanKDev/GrindingDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KishanKDev/GrindingDSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/KishanKDev/GrindingDSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KishanKDev/GrindingDSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/KishanKDev/GrindingDSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/KishanKDev/GrindingDSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/KishanKDev/GrindingDSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/KishanKDev/GrindingDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/KishanKDev/GrindingDSA/tree/master/0680-valid-palindrome-ii) |
