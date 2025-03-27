@@ -1,21 +1,26 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-         vector<int>count(26,0);
+         if (s.size() !=t.size()) return false;
 
-         for(char &ch:s){
-            count[ch-'a']++;
+         unordered_map<char,int>freq;
+
+         for(char ch:s){
+            freq[ch]++;
          }
 
-         for(char &ch:t){
-            count[ch-'a']--;
+         for(char ch:t){
+            freq[ch]--;
+
+            if(freq[ch]<0){
+                return false;
+            }
          }
 
-         bool allZeroes= all_of(begin(count),end(count),[](int element){
-            return element==0;
-         } );
+         return true;
 
-         return allZeroes;
+
+
 
     }
 };
