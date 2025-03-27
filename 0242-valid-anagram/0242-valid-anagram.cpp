@@ -1,9 +1,21 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+         vector<int>count(26,0);
 
-        return s==t;
+         for(char &ch:s){
+            count[ch-'a']++;
+         }
+
+         for(char &ch:t){
+            count[ch-'a']--;
+         }
+
+         bool allZeroes= all_of(begin(count),end(count),[](int element){
+            return element==0;
+         } );
+
+         return allZeroes;
+
     }
 };
