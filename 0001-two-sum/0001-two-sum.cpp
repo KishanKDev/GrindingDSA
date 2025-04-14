@@ -38,7 +38,7 @@ public:
         // return{-1,-1};
        
 
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         for(int i=0;i<n;i++){
             int a= nums[i];
             int moreneeded=(target-a);
