@@ -4,12 +4,12 @@ public:
        int n= prices.size();
        if (n < 2) return 0;
 
-       int minprice=INT_MAX;
-       int maxpro=0;
+       int BestBuyprice=INT_MAX;
+       int maxprofit=0;
        for(int i=0;i<n;i++){
-        minprice= min(minprice,prices[i]);
-        maxpro=max(maxpro,prices[i]-minprice);
+        BestBuyprice= min(BestBuyprice,prices[i]);
+        maxprofit=max(maxprofit,prices[i]-BestBuyprice);
        } 
-       return maxpro;
+       return maxprofit;
     }
 };
