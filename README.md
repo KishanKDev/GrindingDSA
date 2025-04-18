@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishanKDev/GrindingDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KishanKDev/GrindingDSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KishanKDev/GrindingDSA/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KishanKDev/GrindingDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KishanKDev/GrindingDSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
