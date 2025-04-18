@@ -2,17 +2,17 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         string result;
-        int balance=0;
+        int count=0;
 
         for(auto ch:s){
-            if(ch==')') balance--;
-            
-            if(balance>0) result+=ch;
+            if(ch==')') count--;
 
-            if(ch=='(') balance++;
-            
+            if(count>0) result +=ch;
+
+            if(ch=='(') count++;
         }
 
         return result;
+           
     }
 };
