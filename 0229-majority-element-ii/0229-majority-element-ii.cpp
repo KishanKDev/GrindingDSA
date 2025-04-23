@@ -1,26 +1,23 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int n= nums.size();
-        vector<int>ans;
-      for(int i=0;i<n;i++) {
-        int count= 0;
-        
-        for(int j=0;j<n;j++){
-            if(nums[i]==nums[j]){
-                count++;
+        vector<int>list;
+
+        unordered_map<int,int>mpp;
+        int n=nums.size();
+        int mini= (int)(n/3)+1;
+
+        for(int i=0;i<n;i++){
+            mpp[nums[i]]++;
+
+            if(mpp[nums[i]]==mini){
+                list.push_back(nums[i]);
+                
             }
+            if(list.size()==2) break;
         }
 
-        if(count>n/3){
-            if (std::find(ans.begin(), ans.end(), nums[i]) == ans.end()) {
-                    ans.push_back(nums[i]);
-            }
-
-        }    
-
-      }
-
-     return ans;
+        return list;
+        
     }
 };
