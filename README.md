@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KishanKDev/GrindingDSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KishanKDev/GrindingDSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3925-concatenate-array-with-reverse](https://github.com/KishanKDev/GrindingDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/KishanKDev/GrindingDSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/KishanKDev/GrindingDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Union Find
 |  |
 | ------- |
