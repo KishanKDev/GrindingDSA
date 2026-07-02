@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KishanKDev/GrindingDSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KishanKDev/GrindingDSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/KishanKDev/GrindingDSA/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/KishanKDev/GrindingDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KishanKDev/GrindingDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KishanKDev/GrindingDSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/KishanKDev/GrindingDSA/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
