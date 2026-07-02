@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishanKDev/GrindingDSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/KishanKDev/GrindingDSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KishanKDev/GrindingDSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KishanKDev/GrindingDSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KishanKDev/GrindingDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/KishanKDev/GrindingDSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KishanKDev/GrindingDSA/tree/master/2058-concatenation-of-array) |
