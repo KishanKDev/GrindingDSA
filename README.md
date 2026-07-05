@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KishanKDev/GrindingDSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/KishanKDev/GrindingDSA/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/KishanKDev/GrindingDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/KishanKDev/GrindingDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KishanKDev/GrindingDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KishanKDev/GrindingDSA/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/KishanKDev/GrindingDSA/tree/master/2737-row-with-maximum-ones) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/KishanKDev/GrindingDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
 |  |
 | ------- |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KishanKDev/GrindingDSA/tree/master/0451-sort-characters-by-frequency) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/KishanKDev/GrindingDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
