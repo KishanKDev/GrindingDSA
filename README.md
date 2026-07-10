@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KishanKDev/GrindingDSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/KishanKDev/GrindingDSA/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/KishanKDev/GrindingDSA/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KishanKDev/GrindingDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/KishanKDev/GrindingDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KishanKDev/GrindingDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/KishanKDev/GrindingDSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KishanKDev/GrindingDSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/KishanKDev/GrindingDSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/KishanKDev/GrindingDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Union Find
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/KishanKDev/GrindingDSA/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/KishanKDev/GrindingDSA/tree/master/3447-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KishanKDev/GrindingDSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/KishanKDev/GrindingDSA/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
